@@ -16,10 +16,10 @@
 
 - 🎮 Od około **5 lat** zajmuję się serwerami Minecraft
 - 🛠️ Posiadam doświadczenie jako **Administrator Serwerów Minecraft**
-- 💻 Jestem początkującym programistą i rozwijam swoje umiejętności
+- 💻 Jestem początkującym programistą i stale rozwijam swoje umiejętności
 - 🧩 Uczę się tworzenia własnych pluginów, modów oraz systemów
 - 📚 Cały czas poznaję nowe technologie i rozwiązania
-- 🚀 Rozwijam własne projekty, aby zdobywać kolejne doświadczenie
+- 🚀 Rozwijam własne projekty, zdobywając nowe doświadczenie
 - 💡 Interesuje mnie tworzenie własnych mechanik i rozwiązań dla Minecrafta
 
 ## 🛠️ Technologie i narzędzia
